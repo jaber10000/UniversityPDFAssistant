@@ -17,3 +17,4 @@ sentence-transformers
 torch
 torchvision
 transformers
+Pillow>=10.4.0
